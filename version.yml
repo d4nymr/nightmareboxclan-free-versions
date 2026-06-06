@@ -1,3 +1,2 @@
-current-version: "v1.0.1"
-denied-versions: 
-  - "v1.0.0"
+current-version: "v1.0.2"
+denied-versions: []
